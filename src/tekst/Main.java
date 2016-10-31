@@ -20,5 +20,6 @@ public class Main {
         System.out.println("hej med jer gutter");
         System.out.println("bad bojes! ");
         System.out.println("Hva så boys");
+        System.out.println("hvad skal der ske?");
     }
 }
