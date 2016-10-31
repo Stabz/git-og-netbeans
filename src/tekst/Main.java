@@ -16,10 +16,10 @@ public class Main {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-
         System.out.println("hej med jer gutter");
         System.out.println("bad bojes! ");
         System.out.println("Hva så boys");
+        System.out.println("lulxd");
         System.out.println("hvad skal der ske?");
         System.out.println("idag?");
     }
