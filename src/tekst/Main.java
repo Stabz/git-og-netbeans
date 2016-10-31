@@ -18,6 +18,6 @@ public class Main {
         // TODO code application logic here
 
         System.out.println("hej med jer gutter");
-        System.out.println("Hej tyr");
+        System.out.println("bad bojes! ");
     }
 }
