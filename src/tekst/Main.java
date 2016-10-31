@@ -16,7 +16,8 @@ public class Main {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-
+        private int number;
+            number = 13;
         System.out.println("hej med jer gutter");
         System.out.println("bad bojes! ");
         System.out.println("Hva så boys");
